@@ -16,6 +16,7 @@ visited = [[False]*n for _ in range(n)]
 printtruefalsematrix(visited)
 
 blocks = 0
+
 for i in range(n):
     for j in range(n):
         # print(i,j)
