@@ -1,3 +1,5 @@
+import random
+
 def largest_sum_subarray_n_squared(arr):
     n = len(arr)
     max_sum = float('-inf')
@@ -13,7 +15,8 @@ def largest_sum_subarray_n_squared(arr):
 
     return max_sum, start, end
 
-arr = [-2,1,-3,4,-1,2,1,-5,4]
+arr = [random.randint(-100,100) for i in range(random.randint(1,100))]
+print(arr)
 print("O(n^2) approach:", largest_sum_subarray_n_squared(arr))
 
 
