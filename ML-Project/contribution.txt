@@ -7,9 +7,12 @@ data analysis and analytics
     what is missing
     corr
     dry runs and conclusions
+    problem identification
+--- dipen
+
     EDA - kush , wadh
 
-pre processing
+pre processing 
     feature engineering 
     cleaning
     scaling
@@ -28,6 +31,7 @@ model training
     Gradient Boosting(3). - dipen
 
 evaluation - all
+    problem analysis after training
     roc auc
     accuracy
     confussion matrix and precision recall f1 score
