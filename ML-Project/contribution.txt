@@ -1,0 +1,33 @@
+documention
+    project praposal - all
+    end documention - all
+
+data analysis and analytics
+    behaviour
+    what is missing
+    corr
+    dry runs and conclusions
+    EDA - kush , wadh
+
+pre processing
+    feature engineering 
+    cleaning
+    scaling
+    Normalization
+    missing val
+    outliers
+    
+model training 
+    Logistic Regression,- dipen
+
+    Decision Tree, - kush
+    Random Forest, - wadh
+    K-Nearest Neighbors (KNN), - kush
+    Support Vector Machine (SVM), - wadh
+    Multi-Layer Perceptron (MLP), - kush
+    Gradient Boosting(3). - dipen
+
+evaluation - all
+    roc auc
+    accuracy
+    confussion matrix and precision recall f1 score
